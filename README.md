@@ -7,6 +7,7 @@
 [![Test Coverage][coveralls-image]][coveralls-url]
 
 ## Install
+> _NOTE: This is a fork of the original [serve-static](https://github.com/expressjs/serve-static) module_
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/). Installation is done using the
