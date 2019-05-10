@@ -1,4 +1,22 @@
-1.13.1 / 2018-02-07
+  * deps: hinell/send#0.17.0
+=======
+
+1.14.1 / 2019-05-10
+===================
+  * deps: hinell/send#0.17.1
+
+1.14.0 / 2019-05-07
+===================
+
+  * deps: parseurl@~1.3.3
+  * deps: send@0.17.0
+    - deps: http-errors@~1.7.2
+    - deps: mime@1.6.0
+    - deps: ms@2.1.1
+    - deps: statuses@~1.5.0
+    - perf: remove redundant `path.normalize` call
+
+1.13.3 / 2018-02-07
 ===================
   * deps: hinell/send#0.17.0
 
